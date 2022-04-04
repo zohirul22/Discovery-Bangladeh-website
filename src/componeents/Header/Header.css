@@ -19,3 +19,8 @@
    
   color: rgb(160, 135, 184);
 }
+.customer{
+  color: blue;
+  font-size: 40px;
+  font-weight: bolder;
+}

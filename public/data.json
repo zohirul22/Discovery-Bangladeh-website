@@ -1,66 +1,57 @@
 [
-    {
-      "id": 1,
-      "price": 200,
-      "name": "Bata",
-      "Ratings" :3.31,
-      "img": "./img/img1.png"
-    },
-    {
-      "id": 2,
-      "price": 1200,
-      "Ratings" :4.31,
-      "name": "duronto",
-      "img": "./img/img2.png"
-    },
-    {
-      "id": 3,
-      "price": 1800,
-      "Ratings" :3.51,
-      "name": "Apex",
-      "img": "./img/img3.png"
-    },
-    {
-      "id": 4,
-      "price": 1150,
-      "Ratings" :4.2,
-      "name": "Leatherx",
-      "img": "./img/img4.png"
-    },
-    {
-      "id": 5,
-      "price": 1100,
-      "Ratings" :2.31,
-      "name": "Foortuna",
-      "img": "./img/img5.png"
-    },
-    {
-      "id": 6,
-      "price": 1234,
-      "Ratings" :3.01,
-      "name": "Bay Emporium",
-      "img": "./img/img6.png"
-    },
-    {
-      "id": 7,
-      "price": 1040,
-      "Ratings" :3.21,
-      "name": "Nike",
-      "img": "./img/img7.png"
-    },
-    {
-      "id": 8,
-      "price": 1034,
-      "Ratings" :2.41,
-      "name": "Lotto",
-      "img": "./img/img8.png"
-    },
-    {
-      "id": 9,
-      "price": 1134,
-      "Ratings" :3.71,
-      "name": "Sports Shoe",
-      "img": "./img/img9.png"
-    }
+  {
+    "Review":"This Shoe is good looking..but its price is highly",
+    "name": "Shahin",
+    "Ratings" :3.31
    
-  ]
+  },
+  {
+    "Review":"This Shoe is good ..its  price is Normal",
+    "Ratings" :4.31,
+    "name": "Zohirul"
+   
+  },
+  {
+    "Review":"This Shoe is not good..its looks bad..",
+    "Ratings" :2.51,
+    "name": "Kamal"
+    
+  },
+  {
+    "Review":"This Shoe is highly good looking..but its price is highly",
+    "Ratings" :5.00,
+    "name": "Jamal"
+   
+  },
+  {
+    "Review":"This Shoe is normal..and its  price is normal",
+    "Ratings" :2.31,
+    "name": "Mir Ahamed"
+    
+  },
+  {
+    "Review":"This Shoe is not bad!!",
+    "Ratings" :3.01,
+    "name": "Anik Ahamed"
+   
+  },
+  {
+    "Review":"This Shoe is attraction ..but its price is highly",
+    "Ratings" :3.21,
+    "name": "Akash"
+   
+  },
+  {
+    "Review":"This Shoe is vary good.i like this shoe..but its price is highly",
+    "Ratings" :2.41,
+    "name": "Sumon"
+  
+  },
+  {
+    "Review":"This Shoe is good looking..but its price is highly",
+    "Ratings" :3.71,
+    "name": "Rasel"
+   
+  }
+ 
+]

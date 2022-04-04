@@ -37,13 +37,11 @@ text-align: justify;
         border: 5px solid rgb(180, 147, 147);
         border-radius: 20px;
        padding: 20px;
+       background-color: rgb(219, 215, 155);
         
     }
     
-     .img-info{
-        width: 200px;
-       
-    } 
+   
 
     button{
         padding: 15px;
