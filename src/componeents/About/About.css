@@ -1,0 +1,14 @@
+.about{
+   font-size: 30px;
+   color: rgb(22, 22, 48);
+   width: 800px;
+   text-align: justify;
+   margin-left: 100px;
+}
+.btn{
+    padding: 10px;
+    background-color: blueviolet;
+    border: 0px;
+    border-radius: 10px;
+    font-size: 30px;
+}

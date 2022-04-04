@@ -1,0 +1,27 @@
+.Ans{
+    text-align: justify;
+    margin-left: 50px;
+}
+.Ans>p{
+    font-size: 20px;
+  color: darkblue;
+    font-weight: 400;
+    
+}
+.ans-span{
+   color: blue;
+   font-size: 20px;
+   font-weight: bolder;
+}
+.ques>p{
+    text-decoration: underline;
+    color: red;
+    font-size: 35px;
+}
+
+.ques > h2{
+    text-decoration: overline;
+    font-size: 50px;
+    color: darkorchid;
+    text-transform: uppercase;
+}

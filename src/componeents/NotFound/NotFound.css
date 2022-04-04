@@ -1,0 +1,12 @@
+.moreFound >img{
+width: 700px;
+height: 450px;
+border: 5px solid red;
+border-radius: 20px;
+}
+.moreFound>h1{
+    color: crimson;
+    font-size: 50px;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
