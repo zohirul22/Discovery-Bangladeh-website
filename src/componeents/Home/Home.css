@@ -3,10 +3,14 @@
     grid-template-columns: auto auto;
     grid-gap: 50px;
     margin: 30px;
+    margin-bottom: 100px;
 }
 
-.img-info>img{
+.img-inf>img{
     width: 400px;
+    margin-right: 50px;
+   
+  
 }
 .text-info{
     width: 700px;
@@ -32,9 +36,26 @@ text-align: justify;
     .products-details{
         border: 5px solid rgb(180, 147, 147);
         border-radius: 20px;
-       
+       padding: 20px;
         
     }
+    
      .img-info{
         width: 200px;
+       
     } 
+
+    button{
+        padding: 15px;
+        border-radius: 10px;
+        border: none;
+        background-color: burlywood;
+        color: blue;
+        width: 200px;
+        font-size: 25px;
+        font-weight: 900;
+    }
+
+    button:hover{
+        background-color: chocolate;
+    }

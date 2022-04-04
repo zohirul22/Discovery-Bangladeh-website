@@ -7,8 +7,13 @@
 }
 .btn{
     padding: 10px;
-    background-color: blueviolet;
+    background-color: rgb(178, 122, 230);
     border: 0px;
     border-radius: 10px;
     font-size: 30px;
+    color: azure;
+}
+
+.btn:hover{
+    background-color:rgb(73, 4, 138) ;
 }

@@ -9,7 +9,7 @@ const Review = () => {
     return (
         <div className='all-review'>
      {
-         products.map(pd => <div className='products-details' >
+        products.slice(0,6).map(pd => <div className='products-details' >
              <img className='img-info' src={pd.img} alt="" />
              <h1>Id:{pd.id}</h1>
              <h2>Name:{pd.name}</h2>
