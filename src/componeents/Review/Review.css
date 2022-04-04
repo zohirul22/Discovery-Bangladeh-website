@@ -1,0 +1,16 @@
+.all-review{
+display: grid;
+grid-template-columns: auto auto auto;
+grid-gap:20px ;
+
+
+}
+.products-details{
+    border: 5px solid rgb(180, 147, 147);
+    border-radius: 20px;
+   
+    
+}
+ .img-info{
+    width: 200px;
+} 

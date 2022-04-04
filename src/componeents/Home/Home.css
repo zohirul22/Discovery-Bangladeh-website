@@ -1,0 +1,40 @@
+.main-part{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 50px;
+    margin: 30px;
+}
+
+.img-info>img{
+    width: 400px;
+}
+.text-info{
+    width: 700px;
+}
+.text-info >p{
+color: blue;
+font-size: 20px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: justify;
+}
+.text-info>h1{
+    font-size: 50px;
+    color: crimson;
+}
+
+.all-review{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap:20px ;
+    
+    
+    }
+    .products-details{
+        border: 5px solid rgb(180, 147, 147);
+        border-radius: 20px;
+       
+        
+    }
+     .img-info{
+        width: 200px;
+    } 

@@ -1,6 +1,8 @@
 .navber{
     background-color: rgb(16, 35, 36);
     padding: 20px;
+    /* position: sticky;
+    top: 0px; */
 }
 .navber>a{
     text-decoration: none;
